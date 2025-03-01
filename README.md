@@ -1,5 +1,7 @@
 # solana-anchor-mint-transfer-token
 
+Reference Video: https://www.youtube.com/watch?v=3GHlk6vosQw
+
 ## [BE] Token-Contract
 ### Preparation
 set this, related issues: 
